@@ -21,7 +21,8 @@ export default function App() {
 function Ganidzhon() {
   return (
     <>
-      <div class="advansed">
+    
+      <div className="advansed">
         <dl>
           <dt>Пациент</dt>
           <dd>Т***в Г. М.</dd>
@@ -31,7 +32,7 @@ function Ganidzhon() {
           <dd>РНК НЕ ОБНАРУЖЕНА (28 дек 2020)</dd>
         </dl>
       </div>
-      <div class="advansed">
+      <div className="advansed">
         <dl>
           <dt>Patient</dt>
           <dd>T***v G. M.</dd>
@@ -50,7 +51,7 @@ function Ganidzhon() {
 function Validzhon() {
   return (
     <>
-      <div class="advansed">
+      <div className="advansed">
         <dl>
           <dt>Пациент</dt>
           <dd>Т***в В. М.</dd>
@@ -60,7 +61,7 @@ function Validzhon() {
           <dd>РНК НЕ ОБНАРУЖЕНА (28 дек 2020)</dd>
         </dl>
       </div>
-      <div class="advansed">
+      <div className="advansed">
         <dl>
           <dt>Patient</dt>
           <dd>T***v V. M.</dd>

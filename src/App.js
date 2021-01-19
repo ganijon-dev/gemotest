@@ -21,7 +21,6 @@ export default function App() {
 function Ganidzhon() {
   return (
     <>
-    
       <div className="advansed">
         <dl>
           <dt>Пациент</dt>
@@ -37,7 +36,7 @@ function Ganidzhon() {
           <dt>Patient</dt>
           <dd>D***v M. M.</dd>
           <dt>Year of birth</dt>
-          <dd>1996</dd>
+          <dd>1998</dd>
           <dt>
             Coronavirus, RNA (SARS-CoV-2, Real-time PCR) smear, qualitative
           </dt>

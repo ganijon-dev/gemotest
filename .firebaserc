@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "gemotest-covid19",
+    "default": "gemotest-covid19"
+  }
+}

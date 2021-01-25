@@ -28,7 +28,7 @@ function Ganidzhon() {
           <dt>Год рождения</dt>
           <dd>1998</dd>
           <dt>Коронавирус, РНК (SARS-CoV-2, ПЦР) мазок, кач.</dt>
-          <dd>РНК НЕ ОБНАРУЖЕНА (20 янв 2021)</dd>
+          <dd>РНК НЕ ОБНАРУЖЕНА (24 янв 2021)</dd>
         </dl>
       </div>
       <div className="advansed">
@@ -40,7 +40,7 @@ function Ganidzhon() {
           <dt>
             Coronavirus, RNA (SARS-CoV-2, Real-time PCR) smear, qualitative
           </dt>
-          <dd>RNA not detected (Jan 20, 2021)</dd>
+          <dd>RNA not detected (Jan 24, 2021)</dd>
         </dl>
       </div>
     </>

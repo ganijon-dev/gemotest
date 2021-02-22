@@ -24,23 +24,23 @@ function Ganidzhon() {
       <div className="advansed">
         <dl>
           <dt>Пациент</dt>
-          <dd>Д***в М. М.</dd>
+          <dd>Р***ва Р. Б.</dd>
           <dt>Год рождения</dt>
-          <dd>1998</dd>
+          <dd>2000</dd>
           <dt>Коронавирус, РНК (SARS-CoV-2, ПЦР) мазок, кач.</dt>
-          <dd>РНК НЕ ОБНАРУЖЕНА (24 янв 2021)</dd>
+          <dd>РНК НЕ ОБНАРУЖЕНА (23 фев 2021)</dd>
         </dl>
       </div>
       <div className="advansed">
         <dl>
           <dt>Patient</dt>
-          <dd>D***v M. M.</dd>
+          <dd>R***va R. B.</dd>
           <dt>Year of birth</dt>
-          <dd>1998</dd>
+          <dd>2000</dd>
           <dt>
             Coronavirus, RNA (SARS-CoV-2, Real-time PCR) smear, qualitative
           </dt>
-          <dd>RNA not detected (Jan 24, 2021)</dd>
+          <dd>RNA not detected (Feb 23, 2021)</dd>
         </dl>
       </div>
     </>

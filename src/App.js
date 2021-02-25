@@ -57,7 +57,7 @@ function Validzhon() {
           <dt>Год рождения</dt>
           <dd>1997</dd>
           <dt>Коронавирус, РНК (SARS-CoV-2, ПЦР) мазок, кач.</dt>
-          <dd>РНК НЕ ОБНАРУЖЕНА (28 дек 2020)</dd>
+          <dd>РНК НЕ ОБНАРУЖЕНА (24 фев 2020)</dd>
         </dl>
       </div>
       <div className="advansed">
@@ -69,7 +69,7 @@ function Validzhon() {
           <dt>
             Coronavirus, RNA (SARS-CoV-2, Real-time PCR) smear, qualitative
           </dt>
-          <dd>RNA not detected (Dec 28, 2020)</dd>
+          <dd>RNA not detected (Feb 24, 2020)</dd>
         </dl>
       </div>
     </>
